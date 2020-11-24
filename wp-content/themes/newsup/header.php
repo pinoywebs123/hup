@@ -11,8 +11,6 @@
 <html <?php language_attributes(); ?>>
 <head>
 <script data-ad-client="ca-pub-9061062417138370" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<script data-ad-client="ca-pub-9061062417138370" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175427124-1"></script>
